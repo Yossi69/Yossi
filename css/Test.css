@@ -1,0 +1,21 @@
+.coteret {
+  text-align: center;
+}
+.hebrew {
+  background-color: rgba(216, 211, 145, 0.904);
+  text-align: left;
+}
+body {
+  background-color: rgba(243, 243, 243, 0.375);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  background-color: darksalmon;
+}
+input {
+  background-color: gold;
+}
+.mission {
+  font-size: large;
+}
